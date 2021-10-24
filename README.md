@@ -1,3 +1,4 @@
 # Hackaton-BBVA-2021
-Reto: Vinculación Rentable
-Equipo: Atlantis
+*Reto: Vinculación Rentable
+
+*Equipo: Atlantis
